@@ -1,0 +1,26 @@
+.main-posts {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 40px;
+}
+
+.main-posts h3 {
+    margin-top: 16px;
+    font-size: 115%;
+    
+    letter-spacing: 0.5px;
+}
+
+.main-posts h3 a {
+    color: #1772aa;
+}
+
+.main-posts p {
+    margin-top: 16px;
+    font-size: 150%;
+    line-height: 27px;
+}
+
+.main-posts p:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400');
+
+.header {
+    font-size: 130px;
+    font-weight: 300;
+    font-family: "Lato";
+    text-align: center;
+    letter-spacing: 7px;
+    text-transform: uppercase;
+    color: rgb(70, 70, 70);
+}

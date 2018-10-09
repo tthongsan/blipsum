@@ -1,0 +1,27 @@
+.navbar {
+    text-transform: uppercase;
+
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    transition: 0.8s;
+}
+
+ul li {
+    padding: 16px;
+    border-bottom: 1px solid white;
+}
+
+ul li:hover {
+    border-bottom: 1px solid #adadad;
+    
+}
+
+a {
+    color: #adadad;
+    text-decoration: none;
+    
+}
+
